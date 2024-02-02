@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/mern-deploy/static/js/main.7373a669.chunk.js",
+    "main.js.map": "/mern-deploy/static/js/main.7373a669.chunk.js.map",
+    "runtime~main.js": "/mern-deploy/static/js/runtime~main.157b56a9.js",
+    "runtime~main.js.map": "/mern-deploy/static/js/runtime~main.157b56a9.js.map",
+    "static/js/2.1f5189bf.chunk.js": "/mern-deploy/static/js/2.1f5189bf.chunk.js",
+    "static/js/2.1f5189bf.chunk.js.map": "/mern-deploy/static/js/2.1f5189bf.chunk.js.map",
+    "index.html": "/mern-deploy/index.html",
+    "precache-manifest.45c65999322c8793d1c4602636b1ec1a.js": "/mern-deploy/precache-manifest.45c65999322c8793d1c4602636b1ec1a.js",
+    "service-worker.js": "/mern-deploy/service-worker.js"
+  }
+}
